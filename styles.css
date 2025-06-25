@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+ <styles>
+        body {
+            font-family: sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+        
+        #bands {
+            list-style: none;
+            padding: 0;
+        }
+        
+        #bands li {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            background: #f7f7f7;
+            margin-bottom: 5px;
+        }
+    </styles>
